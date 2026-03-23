@@ -18,22 +18,22 @@ download() {
 }
 
 echo "=== 洪水ハザードマップ ==="
-download "$BASE/001/004/277/suitafloodhmjpn202203.pdf" "洪水-吹田市全域.pdf"
+download "$BASE/001/004/277/suitafloodhmjpn202203.pdf" "洪水-全域.pdf"
 
 echo ""
 echo "=== 内水ハザードマップ ==="
-download "$BASE/001/004/278/naisuihzzeniki.pdf"      "内水-吹田市全域.pdf"
-download "$BASE/001/004/278/1201020181724.pdf"        "内水-千里NT万博阪大地域北部.pdf"
-download "$BASE/001/004/278/1201020182148.pdf"        "内水-千里NT万博阪大地域南部.pdf"
-download "$BASE/001/004/278/120102018221.pdf"         "内水-山田千里丘地域.pdf"
-download "$BASE/001/004/278/1201020182338.pdf"        "内水-千里山佐井寺地域.pdf"
-download "$BASE/001/004/278/1201020182354.pdf"        "内水-豊津江坂南吹田地域.pdf"
-download "$BASE/001/004/278/120102018248.pdf"         "内水-片山岸部地域.pdf"
-download "$BASE/001/004/278/1201020182427.pdf"        "内水-JR以南地域.pdf"
+download "$BASE/001/004/278/naisuihzzeniki.pdf"      "内水-全域.pdf"
+download "$BASE/001/004/278/1201020181724.pdf"        "内水-地域別-千里NT・万博・阪大地域北部.pdf"
+download "$BASE/001/004/278/1201020182148.pdf"        "内水-地域別-千里NT・万博・阪大地域南部.pdf"
+download "$BASE/001/004/278/120102018221.pdf"         "内水-地域別-山田・千里丘地域.pdf"
+download "$BASE/001/004/278/1201020182338.pdf"        "内水-地域別-千里山・佐井寺地域.pdf"
+download "$BASE/001/004/278/1201020182354.pdf"        "内水-地域別-豊津・江坂・南吹田地域.pdf"
+download "$BASE/001/004/278/120102018248.pdf"         "内水-地域別-片山・岸部地域.pdf"
+download "$BASE/001/004/278/1201020182427.pdf"        "内水-地域別-JR以南地域.pdf"
 
 echo ""
 echo "=== 高潮ハザードマップ ==="
-download "$BASE/001/004/276/suitastormsurgehmjpn.pdf" "高潮-吹田市南部.pdf"
+download "$BASE/001/004/276/suitastormsurgehmjpn.pdf" "高潮-地域別-南部.pdf"
 
 echo ""
 echo "=== 完了 ==="

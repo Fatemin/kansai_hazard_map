@@ -19,9 +19,9 @@ download() {
 }
 
 echo "=== 洪水・内水・土砂災害ハザードマップ ==="
-download "$BASE/omote.pdf"                          "洪水内水土砂-防災マップ表面.pdf"
-download "$BASE/ura.pdf"                            "洪水内水土砂-防災マップ裏面.pdf"
-download "$BASE/030624bousaimap-tizumena3.pdf"      "洪水内水土砂-地図面R3年6月版.pdf"
+download "$BASE/omote.pdf"                          "洪水内水土砂-全域-表面.pdf"
+download "$BASE/ura.pdf"                            "洪水内水土砂-全域-裏面.pdf"
+download "$BASE/030624bousaimap-tizumena3.pdf"      "洪水内水土砂-全域-地図面R3年6月版.pdf"
 
 echo ""
 echo "=== 完了 ==="

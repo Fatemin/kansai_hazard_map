@@ -20,9 +20,9 @@ download() {
 }
 
 echo "=== 洪水・土砂ハザードマップ ==="
-download "$BASE/13293.pdf"  "洪水土砂-淀川流域.pdf"
-download "$BASE/13294.pdf"  "洪水土砂-水無瀬川流域.pdf"
-download "$BASE/13297.pdf"  "水害-水害への備えガイド全域.pdf"
+download "$BASE/13293.pdf"  "洪水土砂-地域別-淀川流域.pdf"
+download "$BASE/13294.pdf"  "洪水土砂-地域別-水無瀬川流域.pdf"
+download "$BASE/13297.pdf"  "水害-全域-備えガイド.pdf"
 
 echo ""
 echo "=== 完了 ==="

@@ -19,8 +19,8 @@ download() {
 }
 
 echo "=== 洪水ハザードマップ ==="
-download "$BASE/jisinngouudosya.pdf"    "洪水地震土砂-淀川系全域.pdf"
-download "$BASE/neyaawahaza-.pdf"       "洪水-寝屋川古川支川全域.pdf"
+download "$BASE/jisinngouudosya.pdf"    "洪水地震土砂-全域-淀川系.pdf"
+download "$BASE/neyaawahaza-.pdf"       "洪水-全域-寝屋川・古川支川.pdf"
 
 echo ""
 echo "=== 内水ハザードマップ ==="

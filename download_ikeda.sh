@@ -19,17 +19,17 @@ download() {
 }
 
 echo "=== 洪水・内水ハザードマップ ==="
-download "$BASE/1/ikedasizennikinaisuikouzui.pdf"           "洪水内水-全域余野川箕面川石澄川神田川.pdf"
-download "$BASE/1/230915ikedasizennikikouzuidosha.pdf"      "洪水土砂-全域猪名川.pdf"
+download "$BASE/1/ikedasizennikinaisuikouzui.pdf"           "洪水内水-全域-余野川・箕面川・石澄川・神田川.pdf"
+download "$BASE/1/230915ikedasizennikikouzuidosha.pdf"      "洪水土砂-全域-猪名川.pdf"
 
 echo ""
 echo "=== 洪水・内水（校区別）==="
-download "$BASE/1/koda-kureha240911.pdf"                    "洪水内水-神田小学校呉服小学校区.pdf"
-download "$BASE/3/kitateshima-ishibashiminami2404.pdf"      "洪水内水-北豊島小学校石橋南小学校区.pdf"
-download "$BASE/1/ikeda-satsukigaoka240917.pdf"             "洪水内水-池田小学校五月丘小学校区.pdf"
-download "$BASE/3/midorigaoka-ishibashi25-04.pdf"           "洪水内水-緑丘小学校石橋小学校区.pdf"
-download "$BASE/3/hatano2504.pdf"                           "洪水内水-秦野小学校区.pdf"
-download "$BASE/1/hosogo240911.pdf"                         "洪水内水-ほそごう学園区.pdf"
+download "$BASE/1/koda-kureha240911.pdf"                    "洪水内水-地域別-神田小学校・呉服小学校区.pdf"
+download "$BASE/3/kitateshima-ishibashiminami2404.pdf"      "洪水内水-地域別-北豊島小学校・石橋南小学校区.pdf"
+download "$BASE/1/ikeda-satsukigaoka240917.pdf"             "洪水内水-地域別-池田小学校・五月丘小学校区.pdf"
+download "$BASE/3/midorigaoka-ishibashi25-04.pdf"           "洪水内水-地域別-緑丘小学校・石橋小学校区.pdf"
+download "$BASE/3/hatano2504.pdf"                           "洪水内水-地域別-秦野小学校区.pdf"
+download "$BASE/1/hosogo240911.pdf"                         "洪水内水-地域別-ほそごう学園区.pdf"
 
 echo ""
 echo "=== 完了 ==="

@@ -19,10 +19,10 @@ download() {
 }
 
 echo "=== 洪水ハザードマップ ==="
-download "$BASE/neyagawaryuuiki.pdf"                        "洪水-寝屋川流域地図避難情報.pdf"
-download "$BASE/yamatogawayodogawatameikekijimen.pdf"        "洪水ため池-大和川淀川地図避難情報.pdf"
-download "$BASE/neyagawaryuuikihaza-do.pdf"                 "洪水-寝屋川流域ハザードのみ.pdf"
-download "$BASE/yaatogawayodogawahaza-do.pdf"               "洪水-大和川淀川ハザードのみ.pdf"
+download "$BASE/neyagawaryuuiki.pdf"                        "洪水-地域別-寝屋川流域（地図・避難情報）.pdf"
+download "$BASE/yamatogawayodogawatameikekijimen.pdf"        "洪水ため池-地域別-大和川・淀川（地図・避難情報）.pdf"
+download "$BASE/neyagawaryuuikihaza-do.pdf"                 "洪水-地域別-寝屋川流域（ハザードのみ）.pdf"
+download "$BASE/yaatogawayodogawahaza-do.pdf"               "洪水-地域別-大和川・淀川（ハザードのみ）.pdf"
 
 echo ""
 echo "=== 完了 ==="
