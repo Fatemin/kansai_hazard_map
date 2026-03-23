@@ -19,6 +19,8 @@ download() {
 }
 
 echo "=== 洪水・内水・土砂ハザードマップ ==="
+download "$BASE/39908.pdf"  "洪水内水土砂-索引図.pdf"
+download "$BASE/39909.pdf"  "洪水内水土砂-凡例.pdf"
 download "$BASE/39910.pdf"  "洪水内水土砂-区域1.pdf"
 download "$BASE/39911.pdf"  "洪水内水土砂-区域2.pdf"
 download "$BASE/39912.pdf"  "洪水内水土砂-区域3.pdf"
