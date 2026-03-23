@@ -20,6 +20,7 @@ download() {
 
 echo "=== 洪水・内水ハザードマップ ==="
 download "$BASE/P00-01_.pdf"    "洪水内水-表紙索引.pdf"
+download "$BASE/P16-17_.pdf"    "洪水内水-区割り図.pdf"
 download "$BASE/P18-19_1.pdf"   "洪水内水-区域1.pdf"
 download "$BASE/P20-21_2.pdf"   "洪水内水-区域2.pdf"
 download "$BASE/P22-23_3.pdf"   "洪水内水-区域3.pdf"
