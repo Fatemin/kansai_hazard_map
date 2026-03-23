@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Author" content="Toyonaka city" />
+
+
+<meta name="viewport" content="width=device-width, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.wysiwyg.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/style.tableconverter.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/n_style_base_2024.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/n_style_main_2024.css" />
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 767px)" href="/css/n_style_smph_2024.css" />
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 767px)" href="/css/n_smph_nav.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/css/n_style_print_2024.css" />
+<title>ページを表示することができません　豊中市</title>
+<script type="text/javascript" src="/js/2023_jquery.min.js"></script>
+<script type="text/javascript" src="/js/id.js"></script>
+<script type="text/javascript" src="/js/n_gnavi.js"></script>
+<script type="text/javascript" src="/js/smph_nav.js"></script>
+
+<script type="text/javascript" src="/js/analyticscode.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/2024_main.js"></script>
+</head>
+<body id="base">
+<div class="overlay"></div>
+<!-- scs_jyogai_start -->
+<noscript>
+<p class="jsmessage">豊中市ホームページではJavaScriptを使用しています。JavaScriptの使用を有効にしていない場合は、一部の機能が正確に動作しない恐れがあります。<br />お手数ですがJavaScriptの使用を有効にしてください。</p>
+</noscript>
+<div class="blockjump"><a name="PTOP" id="PTOP"><img src="/images/spacer.gif" alt="このページの先頭です" width="1" height="1" /></a><img src="/images/spacer.gif" alt="サイトメニューここから" width="1" height="1" /></div>
+<div id="blockskip">
+<script type="text/javascript">
+// <![CDATA[
+$(function(){
+	$("#blockskip a").focus(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1.5em'
+				},{
+					duration: 'fast'
+				}
+			)
+			.addClass("show");
+	});
+	$("#blockskip a")
+		.blur(function(){
+		$(this).parent()
+			.animate(
+				{
+					height: '1px'
+				},{
+					duration: 'fast',
+					complete: function(){
+						$(this).removeClass("show");
+					}
+				}
+			)
+	});
+});
+// ]]>
+</script>
+<a href="#CONT">このページの本文へ移動</a>
+</div>
+<div class="baseall nonav">
+<!-- ▼ヘッダーここから▼ -->
+<div class="headbg clearfix">
+	<div class="sphead_wp sp_tablet_menu">
+	<div class="sp_head_wp">
+	<div class="sp_head_logo pc-none">
+	<h1 id="sp_header_logo">
+	<a href="/index.html">
+	<img src="/images/toyonaka_logo2024_sp.png" alt="豊中市（SP版）" />
+	</a>
+	</h1>
+	</div>
+	</div><!-- /sp_head_wp -->
+	</div><!-- /div sphead_wp -->
+
+<!--  PC用ヘッダー -->
+<div class="pchead_wp sp_none">
+	<h1 class="header_logo">
+	<a href="/index.html">
+	<img src="/images/toyonaka_logo2024.png" alt="豊中市" />
+	</a>
+	</h1>
+
+<div class="pchead_right">
+<div class="head_nav">
+<ul class="nav_lists">
+ <li class="nav_list"><a href="/multilingual/index.html"><span>Language</span></a></li>
+ <li class="nav_list"><a href="/zsmd/lang/ja/html/index.html"><span>音声読み上げ/文字拡大</span></a></li>
+</ul>
+</div>
+<ul class="pchead_right_list">
+<li>
+<button class="search-open-button">
+<span class="open">検索</span>
+<span class="close">閉じる</span>
+</button>
+<!-- ▽検索▽ 2024 （PC） -->
+<div class="search_area pc">
+<div class="search_wrap">
+<div class="search_box">
+<div class="search_w">
+<p class="sp_none">キーワード・ページ番号検索</p>
+<div class="search_set">
+<div class="tab01">
+<form action="/gsearch/search.html" name="SSF" id="SSF">
+<label for="query" class="echooff">
+<img src="/images/spacer.gif" alt="キーワードから探す" width="1" height="1" />
+</label>
+<input type="hidden" name="cx" value="007861693131323739414:f4jktuiwqto" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="hidden" name="oe" value="UTF-8" />
+<input type="hidden" name="whence" value="0" />
+<input type="text" name="q" value="" id="query" class="search" />
+<span class="placeholder" style="">キーワードから探す</span>
+<input type="submit" name="btnG" class="searchBtn" value="検索" />
+<span class="submit_bk"></span>
+</form>
+</div>
+<div class="tab02">
+<form action="" onsubmit="id_search(1);return false;" name="submit_search" id="submit_search" style="display: none">
+<label for="name1" class="echooff">
+<img src="/images/spacer.gif" alt="半角数字9桁を入力してください" width="1" height="1" />
+</label>
+<input type="text" id="name1" class="search" maxlength="9" value="" />
+<span class="placeholder" style="">半角数字9桁を入力してください</span>
+<input type="submit" id="btn1" class="searchBtn" value="検索" onclick="id_search(1)" />
+<span class="submit_bk"></span>
+</form>
+</div>
+<div class="search_bottom">
+<ul class="search_set_wp searchiTabItem">
+<li class="btnstyle"><a id="keyword" href="javascript:void(0)">キーワード検索</a></li>
+<li class="btnstyle tab-none"><a id="page" href="javascript:void(0)">ページ番号検索</a></li>
+</ul>
+<div class="about_search">
+<a href="/aboutweb/search.html">検索について</a>
+</div>
+</div>
+</div>
+</div><!-- /div search_set -->
+</div><!-- /div search_w -->
+
+<div class="search_menu_links">
+<ul>
+	<li><a href="/tetsuduki/index.html" class="search_menu_link">手続きを探す</a></li>
+	<li><a href="/event/calendar/list_calendar.html" class="search_menu_link">イベントを探す</a></li>
+	<li><a href="https://toyonaka-callcenter.jp/" class="search_menu_link">よくある質問</a></li>
+	<li class="sp_none"><a href="/kurashi/yokuaru/soudan/index.html" class="search_menu_link">相談の窓口</a></li>
+	<li class="sp_none"><a href="/joho/sanka/koe/index.html" class="search_menu_link">市民の声</a></li>
+</ul>
+</div>
+<div class="pccall_center sp_none">
+<a href="/kurashi/toyocallcenter/index.html">
+豊中市総合コールセンター<br />
+〔TEL〕06-6858-5050
+</a>
+</div>
+
+<div class="search_area_close sp_none">
+<button class="search_close_btn">閉じる</button>
+</div>
+</div></div><!--/search_area -->
+<!-- △検索△ 2024 （PC） -->
+</li>
+<li>
+<a class="kinkyu-button" href="/kurashi/bosai/kinkyu_info/index.html">
+<span>緊急・災害</span>
+</a>
+</li>
+</ul>
+</div><!-- /div pchead_right -->
+
+</div><!-- /div pchead_wp -->
+
+<div class="pchead_middle">
+
+<!--  PC用グローバルナビ -->
+<div class="gnavi_wp sp_none">
+ 	<ul class="gnavi">
+	<li class="gnavi01 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/kurashi/index.html">
+	<span class="gnavi_txt">くらし・手続き</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi02 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/kosodate/index.html">
+	<span class="gnavi_txt">子育て・教育</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi03 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/kenko/index.html">
+	<span class="gnavi_txt">健康・福祉・医療</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi04 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/jinken_gakushu/index.html">
+	<span class="gnavi_txt">人権・文化・スポーツ</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi05 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/machi/index.html">
+	<span class="gnavi_txt">まちづくり・環境</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi06 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/joho/index.html">
+	<span class="gnavi_txt">市政情報</span>
+	</a>
+	</div>
+	</li>
+
+	<li class="gnavi07 menu-item-has-children">
+	<div>
+	<a class="sub-open-button" href="/shisetsu/index.html">
+	<span class="gnavi_txt">施設案内</span>
+	</a>
+	</div>
+	</li>
+	</ul><!-- /ul gnavi -->
+
+</div><!-- /div gnavi_wp sp_none -->
+</div><!-- /div pchead_middleaera -->
+
+</div><!-- /div headbg -->
+
+
+<!-- ▼スマホ用メニューここから▼ -->
+<!-- ▽メニューバー▽ -->
+<div id="menubar_smp">
+<div class="menu_wrap">
+<div class="menu item">
+ <span class="menu-btn btn">メニュー</span>
+</div>
+
+<div class="search item">
+ <span class="search-btn btn">検索</span>
+<!-- ▽検索▽ 2024 （smp） -->
+<div class="search_area smp">
+<div class="search_wrap">
+<div class="search_box">
+<div class="search_w">
+<p class="sp_none">キーワード・ページ番号検索</p>
+<div class="search_set">
+<div class="tab01">
+<form action="/gsearch/search.html" name="SSF" id="SSF_smp">
+<label for="query_smp" class="echooff">
+<img src="/images/spacer.gif" alt="キーワードから探す" width="1" height="1" />
+</label>
+<input type="hidden" name="cx" value="007861693131323739414:f4jktuiwqto" />
+<input type="hidden" name="cof" value="FORID:9" />
+<input type="hidden" name="ie" value="UTF-8" />
+<input type="hidden" name="oe" value="UTF-8" />
+<input type="hidden" name="whence" value="0" />
+<input type="text" name="q" value="" id="query_smp" class="search" />
+<span class="placeholder" style="">キーワードから探す</span>
+<input type="submit" name="btnG" class="searchBtn" value="検索" />
+<span class="submit_bk"></span>
+</form>
+</div>
+<div class="tab02">
+<form action="" onsubmit="id_search(3);return false;" name="submit_search" id="submit_search_smp" style="display: none">
+<label for="name3" class="echooff">
+<img src="/images/spacer.gif" alt="半角数字9桁を入力してください" width="1" height="1" />
+</label>
+<input type="text" id="name3" class="search" maxlength="9" value="" />
+<span class="placeholder" style="">半角数字9桁を入力してください</span>
+<input type="submit" id="btn1_smp" class="searchBtn" value="検索" onclick="id_search(3)" />
+<span class="submit_bk"></span>
+</form>
+</div>
+<div class="search_bottom">
+<ul class="search_set_wp searchiTabItem">
+<li class="btnstyle"><a id="keyword_smp" href="javascript:void(0)">キーワード検索</a></li>
+<li class="btnstyle tab-none"><a id="page_smp" href="javascript:void(0)">ページ番号検索</a></li>
+</ul>
+<div class="about_search">
+<a href="/aboutweb/search.html">検索について</a>
+</div>
+</div>
+</div>
+</div><!-- /div search_set -->
+</div><!-- /div search_w -->
+
+<div class="search_menu_links">
+<ul>
+	<li><a href="/tetsuduki/index.html" class="search_menu_link">手続きを探す</a></li>
+	<li><a href="/event/calendar/list_calendar.html" class="search_menu_link">イベントを探す</a></li>
+	<li><a href="https://toyonaka-callcenter.jp/" class="search_menu_link">よくある質問</a></li>
+	<li class="sp_none"><a href="/kurashi/yokuaru/soudan/index.html" class="search_menu_link">相談の窓口</a></li>
+	<li class="sp_none"><a href="/joho/sanka/koe/index.html" class="search_menu_link">市民の声</a></li>
+</ul>
+</div>
+<div class="pccall_center sp_none">
+<a href="/kurashi/toyocallcenter/index.html">
+豊中市総合コールセンター<br />
+〔TEL〕06-6858-5050
+</a>
+</div>
+
+<div class="search_area_close sp_none">
+<button class="search_close_btn">閉じる</button>
+</div>
+</div></div><!--/search_area -->
+<!-- △検索△ 2024 （smp） -->
+</div>
+
+<div class="menu-news item">
+ <a class="news-btn btn" href="/allNewsList.html">新着情報</a>
+</div>
+
+<div class="menu-kinkyu item">
+ <a class="kinkyu-btn btn" href="/kurashi/bosai/kinkyu_info/index.html">緊急・災害</a>
+</div>
+</div>
+</div><!-- /menubar_smp -->
+<!-- △メニューバー△ -->
+
+<div class="sub_menu_smp">
+<!-- ▽グローバルナビ（スマホ）▽ -->
+<div id="gnavi_menu" class="sp_open_menu" style="display: none;">
+<div class="sp_open_inner">
+<ul class="sp_nav_lists">
+<li class="sp_nav_list">
+<a href="/multilingual/index.html">
+<span>Language</span>
+</a>
+</li>
+<li class="sp_nav_list">
+<a href="/zsmd/lang/ja/html/index.html">
+<span>音声読み上げ/文字拡大</span>
+</a>
+</li>
+</ul>
+<div class="spgnavi_menu_wp">
+<ul class="spgnavi_menu_links">
+<li><a href="/kurashi/index.html" class="spgnavi_menu_link">くらし・手続き</a></li>
+<li><a href="/kosodate/index.html" class="spgnavi_menu_link">子育て・教育</a></li>
+<li><a href="/kenko/index.html" class="spgnavi_menu_link">健康・福祉・医療</a></li>
+<li><a href="/jinken_gakushu/index.html" class="spgnavi_menu_link">人権・文化・スポーツ</a></li>
+<li><a href="/machi/index.html" class="spgnavi_menu_link">まちづくり・環境</a></li>
+<li><a href="/joho/index.html" class="spgnavi_menu_link">市政情報</a></li>
+<li><a href="/shisetsu/index.html" class="spgnavi_menu_link">施設案内</a></li>
+</ul>
+</div>
+<div class="spgnavi_menu_wp_bottom">
+<ul class="spgnavi_menu_links">
+<li><a href="/joho/sanka/koe/index.html" class="spgnavi_menu_link">市民の声</a></li>
+<li><a href="/kurashi/yokuaru/soudan/index.html" class="spgnavi_menu_link">相談の窓口</a></li></ul>
+</div>
+<div class="spcall_center sp_menu">
+<div class="spcall_center_wp">
+<a href="/kurashi/toyocallcenter/index.html">
+<span class="spcenter_name">豊中市総合コールセンター</span>
+<span class="spphone_number">06-6858-5050</span>
+</a>
+</div>
+</div>
+</div>
+</div><!-- /div gnavi_menu -->
+<!-- △グローバルナビ（スマホ）△ -->
+
+</div><!-- /sub_menu_smp -->
+<!-- ▲スマホ用メニューここまで▲ -->
+
+<div id="basewrap" class="clearfix">
+<div class="guidance"><img src="/images/spacer.gif" alt="サイトメニューここまで" width="1" height="1" /></div>
+<!--▽パンくずナビ▽-->
+<ul class="pankuzu clearfix">
+<li><a href="/index.html">トップページ</a></li>
+<li class="pk-thispage">ページを表示することができません</li>
+</ul>
+<!--△パンくずナビ△-->
+<hr />
+<!-- ▲ヘッダーここまで▲ -->
+<div class="guidance"><a name="CONT" id="CONT"><img src="/images/spacer.gif" alt="本文ここから" width="1" height="1" /></a></div>
+<!-- scs_jyogai_end -->
+<div class="wrap clearfix">
+<div id="main-nosub">
+
+
+
+<div class="h1bg"><div><h1>ページを表示することができません</h1></div></div>
+
+
+<p>お探しのページは、既に削除されているか、URLが変更された可能性があります。<br />お手数ですが、<a href="/index.html" class="innerLink">トップページ</a>から探していただくか、サイト内検索をご利用ください。</p>
+
+
+
+
+
+<!-- scs_jyogai_start -->
+<div class="guidance"><img src="/images/spacer.gif" alt="本文ここまで" width="1" height="1" /></div>
+<!-- scs_jyogai_end -->
+</div><!-- /div main -->
+</div><!-- /div wrap -->
+</div><!-- /div basewrap -->
+<hr />
+<!-- scs_jyogai_start -->
+<!-- ▼フッターここから▼ -->
+<div class="page_top clearfix"><div><a href="#PTOP">ページの先頭へ戻る</a></div></div>
+<div class="footer">
+<div class="footer_wp01">
+<div class="footer_wp01_inner">
+<ul class="footer_link_list1">
+<li><a href="/aboutweb/kojin.html" class="footer_link">個人情報の取り扱いについて</a></li>
+<li><a href="/aboutweb/index.html" class="footer_link">このホームページについて</a></li>
+<li><a href="/aboutweb/link.html" class="footer_link">著作権・リンクについて</a></li>
+<li><a href="/sitemap.html" class="footer_link">サイトマップ</a></li>
+</ul>
+<ul class="footer_link_list2">
+<li><a href="/joho/kakubu/index.html" class="footer_link">組織と業務案内</a></li>
+<li><a href="/aboutweb/link2.html" class="footer_link">リンク集</a></li>
+</ul>
+</div><!-- /div footer_wp01_inner -->
+</div><!-- /div footer_wp01 -->
+
+<div class="footer_wp02">
+<div class="footer_wp02_inner">
+<div class="footer_wp_left">
+<div class="footer_logo"><img src="/images/footer_logo.png" alt="豊中市ロゴ" width="167" height="67" /></div>
+<address>
+〒561-8501　大阪府豊中市中桜塚3丁目1番1号<br />
+電話：06-6858-5050（総合コールセンター）<br />
+法人番号6000020272035
+</address>
+</div>
+<div class="footer_wp_right">
+<a href="/shisetsu/shi/map.html">
+<span>市役所のご案内</span>
+</a>
+</div>
+
+</div><!-- / div footer_wp02_inner" -->
+</div><!-- /div footer_wp02 -->
+<div class="footer_copy">
+&copy; 2024 Toyonaka City.
+</div>
+</div><!-- /div footer -->
+<!-- ▲フッターここまで▲ -->
+</div><!-- /div baseall -->
+<!-- scs_jyogai_end -->
+</body>
+</html>
