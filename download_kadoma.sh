@@ -20,7 +20,7 @@ download() {
 
 echo "=== 洪水ハザードマップ ==="
 download "$BASE/kozui0706.pdf"  "洪水-全域.pdf"
-download "$BASE/yodogawa.pdf"   "洪水-淀川拡大版.pdf"
+download "$BASE/yodogawa.pdf"   "洪水-地域別-淀川拡大版.pdf"
 
 echo ""
 echo "=== 完了 ==="
