@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<title>ご指定のページは見つかりませんでした／箕面市</title>
+
+<meta name="author" content="箕面市" />
+<meta name="viewport" content="width=device-width, maximum-scale=3.0" />
+<meta name="format-detection" content="telephone=no" />
+<link href="/shared/rn/style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/shared.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/color/color0.css" rel="stylesheet" type="text/css" media="all" id="tmp_color" title="default" class="tmp_color" />
+<link href="/shared/rn/style/color/color1.css" rel="alternate stylesheet" type="text/css" media="all" title="darkblue" class="tmp_color" />
+<link href="/shared/rn/style/color/color2.css" rel="alternate stylesheet" type="text/css" media="all" title="yellow" class="tmp_color" />
+<link href="/shared/rn/style/color/color3.css" rel="alternate stylesheet" type="text/css" media="all" title="black" class="tmp_color" />
+<link href="/shared/rn/style/font/normal.css" rel="stylesheet" type="text/css" id="tmp_font" media="all" title="default" class="tmp_font" />
+<link href="/shared/rn/style/font/small.css" rel="alternate stylesheet" type="text/css" media="all" title="small" class="tmp_font" />
+<link href="/shared/rn/style/font/big.css" rel="alternate stylesheet" type="text/css" media="all" title="big" class="tmp_font" />
+<link href="/shared/templates/free_rn/style/edit.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/shared/rn/style/smartphone.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" id="tmp_smartphone_css" />
+<link href="/shared/templates/free_rn/style/edit_sp.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" id="tmp_smartphone_editcss" />
+<link href="/shared/rn/images/favicon/favicon.ico" rel="shortcut icon"  type="image/vnd.microsoft.icon" />
+<link href="/shared/rn/images/favicon/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<script type="text/javascript" src="/shared/rn/js/jquery.js"></script>
+<script type="text/javascript" src="/shared/rn/js/gd.js"></script>
+<script type="text/javascript" src="/shared/rn/js/setting_head.js"></script>
+<script type="text/javascript" src="/shared/js/ga.js"></script>
+
+</head>
+<body class="format_free no_javascript">
+<script type="text/javascript" src="/shared/rn/js/setting_body.js"></script> 
+
+<div id="tmp_wrapper">
+<noscript>
+<p>JavaScriptが無効なため一部の機能が動作しません。動作させるためにはJavaScriptを有効にしてください。またはブラウザの機能をご利用ください。</p>
+</noscript>
+<p><a href="#tmp_honbun" class="skip">本文へスキップします。</a></p>
+<div id="tmp_head_contents">
+<div id="tmp_wrap_header" class="clearfix">
+<div id="tmp_header" class="clearfix">
+<div id="tmp_hlogo">
+<p><a href="/index.html"><span>大阪府箕面市 Minoh City</span></a></p>
+</div>
+<div class="menulink menu--collapsed animated fadeInDown js_menu open">
+<a href="javascript:void(0)" class="menu_title menu_on">
+<span class="menu_name">メニュー</span> 
+<span class="menu_close">閉じる</span>
+<span class="menu_bar"></span>
+</a>
+</div>
+<div id="tmp_means">
+
+<div id="tmp_means_search">
+<div id="tmp_means_primary">
+<ul id="tmp_hnavi">
+    <li><span class="arrow_right">&nbsp;</span><a href="/shisei/kakukaannai/index.html">組織のご案内</a> </li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/sitemap.html">サイトマップ</a> </li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/otoiawase/index.html">お問い合わせ</a> </li>
+    <li><span class="arrow_right">&nbsp;</span><a href="/mobile/pc.html">携帯サイト</a> </li>
+    <li class="hnavi_lang"><span class="arrow_right">&nbsp;</span><a href="/multilingual/index.html">Multilingual</a> </li>
+</ul>
+</div>
+<div id="tmp_means_secondary">
+<form id="tmp_gsearch" action="/search/result.html" name="tmp_gsearch">
+    <div id="tmp_search"><label for="tmp_query" class="btn_search"><img alt="サイト内検索" width="18" height="18" src="/shared/templates/top_rn/images/icon/icn_search.gif" /></label>
+    <div id="tmp_wrap_query"><input id="tmp_query" size="31" name="q" />
+    <p class="query_submit"><input id="tmp_func_sch_btn" alt="検索" type="submit" name="sa" value="検索" /> </p>
+    </div>
+    <p id="tmp_search_hidden"><input type="hidden" name="cx" value="017750771091613507406:p3b6n_hrpbk" /> <input type="hidden" name="ie" value="UTF-8" /><input type="hidden" value="FORID:9" name="cof" /> </p>
+    </div>
+</form>
+<a href="/about_site/kensaku.html" class="means_how_search">検索の仕方</a> <a href="/ac/index.html" class="means_font">文字サイズ・色合いの変更</a> </div>
+</div>
+
+
+<div id="tmp_means_gnavi" class="clearfix">
+<ul class="clearfix">
+    <li class="fist_menu"><a href="/index.html">ホーム</a> </li>
+    <li><a href="/bosai/index.html">防災・防犯</a> </li>
+    <li><a href="/kurashi/index.html">くらし・環境</a> </li>
+    <li><a href="/kenko/index.html">健康・医療<br />
+    <span class="pc_none">・</span>福祉</a> </li>
+    <li><a href="/kyoiku/index.html">子育て・教育<br />
+    <span class="pc_none">・</span>文化</a> </li>
+    <li><a href="/business/index.html">産業<br />
+    <span class="pc_none">・</span>まちづくり</a> </li>
+    <li><a href="/shisei/index.html">市政</a> </li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div id="tmp_wrapper2">
+<div id="tmp_wrapper3">
+<div id="tmp_wrap_pankuzu">
+<div id="tmp_pankuzu">
+<p><a href="/index.html">箕面市</a> &gt; ご指定のページは見つかりませんでした</p>
+</div>
+
+
+</div>
+<div id="tmp_wrap_main" class="column_cnt">
+<div id="tmp_main">
+<div class="col_main">
+<p id="tmp_honbun" class="skip">ここから本文です。</p>
+<div id="tmp_contents">
+<h1>ご指定のページは見つかりませんでした</h1>
+<p>申し訳ありませんが、ご指定のページが移動または削除されている場合があります。</p>
+<p>混雑のため表示できない場合があります。ブラウザで再読み込みを行ってください。</p>
+<p><a href="/index.html">ホームへ</a></p>
+</div>
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="tmp_footer">
+<div id="tmp_fnavi">
+<div class="container"><a id="btn_to_top" href="#tmp_header">このページの先頭へ戻る</a>
+<div class="how_to_get"><a href="/shisei/access/index.html">市役所への行き方</a> </div>
+<ul class="fnavi_connect">
+    <li><a href="/about.html">このサイトの使い方・考え方</a> </li>
+    <li><a href="/about_site/privacy.html">個人情報保護</a> </li>
+    <li><a href="/rss.html">RSS配信について</a> </li>
+    <li><a href="/jigyou/kengen/jyouhou2/jyouhounotice.html">メールアドレスに関する注意事項</a> </li>
+</ul>
+<div class="ftrain"><span class="ftrain_road"><span class="ftrain_move">&nbsp;</span></span></div>
+</div>
+</div>
+<div id="tmp_footer_cnt">
+<div class="container">
+<p class="tmp_title_address">箕面市役所</p>
+<address>
+<p class="tmp_address"><span>法人番号：1000020272205</span></p>
+<p class="tmp_address">〒562-0003大阪府箕面市西小路4丁目6番1号　<span>電話：072-723-2121（代表）</span></p>
+<p class="tmp_address">業務時間：月曜日から金曜日 午前8時45分から午後5時15分<span>（祝日・休日、12月29日から1月3日を除く。</span><span>一部窓口は第2・第4土曜日＜3月・4月は毎週土曜日＞も開庁）</span></p>
+<p class="tmp_address">窓口受付時間：午前9時から午後5時</p>
+</address>
+</div>
+</div>
+<div id="tmp_footer_copy">
+<p id="tmp_copyright" lang="en" xml:lang="en">copyright <span>&copy;</span> Minoh City. All rights reserved.</p>
+</div>
+</div>
+
+</div>
+<script type="text/javascript" src="/shared/rn/js/setting_responsive.js"></script> 
+<script type="text/javascript" src="/shared/rn/js/setting_onload.js"></script>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages: 'en,ja,ko,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+}
+</script>
+
+</body>
+</html>
